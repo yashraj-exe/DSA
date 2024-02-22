@@ -1,0 +1,6 @@
+Sum of Row 0 is 6
+Sum of Row 1 is 15
+Sum of Row 2 is 24
+Sum of Coloum 0 is 12
+Sum of Coloum 1 is 15
+Sum of Coloum 2 is 18
